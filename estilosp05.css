@@ -1,0 +1,50 @@
+#comentarios {
+    margin-top: 20px;
+}
+.comentario {
+    border: 1px solid #eee6b9;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.formForo{
+    padding: 20px;
+    border: 1px solid #000000;
+    border-radius: 10px; 
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2); 
+    background-color: #fbfbf8; 
+    margin: 20px;
+}
+
+.btn{
+    background-color: #7cfa98;
+    color: #4e8b5b;
+    border: none;
+    padding: 5px 10px;
+    text-align: center; 
+    font-size: 14px; 
+    margin: 5px; 
+    border-radius: 10px; 
+    cursor: pointer;
+    text-align: center;
+    align-items: center;
+}
+
+.btn:hover {
+    background-color: #4e8b5b;
+    color: #7cfa98;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;   
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
